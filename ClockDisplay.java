@@ -82,3 +82,34 @@ public class ClockDisplay
                         minutes.getDisplayValue();
     }
 }
+/*
+ * Extra Question
+ * 
+ * 29.60 times, inspect the clock display
+ * 
+ * 30.Rectangle windows = new rectangle(5,7);
+ * 
+ * 31. 2nd constructor set limit for the clock
+ * 
+ * 32.Becuase you set the time
+ * 
+ * 33.pl.print("fire1.txt",true);
+ *   .pl.print("fire2.txt",false);
+ * 
+ * int status= 0;
+ * status = p1.getstatus(3);
+ * status = p1.getstatus(30);
+ * 
+ * 34: 2 SQUARES 1 TRIANGLE AND 1 CIRCLE
+ * 
+ * 35:roof.changeSize(60, 180);
+            roof.moveHorizontal(20);
+            roof.moveVertical(-60);
+            roof.makeVisible();
+ * 
+ * 36: yes they are all internal method calls
+ * 
+ * 37: 
+ * 
+ * 
+ */
